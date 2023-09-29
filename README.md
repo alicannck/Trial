@@ -1,2 +1,2 @@
 # Trial_Project
-Merhabalar ben Alican Nacak. Yirmi iki yaşındayım. İstanbulda yaşıyorum. Üniversitemde bilgisayar programcılığı okumakta idim. Okul zamanımda köklü bir siber güvenlik şirketinde ağ güvenliği alanında staj alma fırsatı ve Atatürk Havalimanı'nda ihracat sorumlu yardımcısı olarak çalışma fırsatım oldu. Şu anki durumda yeni bir işe ihtiyacım fazlasıyla var. Kendimi Test Yazılımı alanında geliştiriyorum. Bu proje pytest bilgimin ne kadar olduğuyla ilgilidir. İçeriğinde excelden veri çekme ve ekran görüntüsü alma gibi etkenlerde eklidir. Umarım beğenirsiniz.
+Bu proje pytest bilgimin ne kadar olduğuyla ilgilidir. İçeriğinde excelden veri çekme ve ekran görüntüsü alma gibi etkenlerde eklidir. Umarım beğenirsiniz.
